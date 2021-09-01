@@ -1,5 +1,5 @@
 
-a=input("A male name: ")
+a=input("A male name: "\n)
 b=input("A female name: ")
 c=input("A pet name: ")
 d=input("A place: ")
