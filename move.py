@@ -5,12 +5,13 @@
 ###              or more sentences of text.
 ###
 
-femalename=input("A female name: ")
-streetname=input("A street name: ")
-malename=input("A male name: ")
-object=input("An object: ")
-vehicle=("A vehicle: ")
-adj=input("An adjective: ")
+femalename=input("A female name: \n")
+streetname=input("A street name: \n")
+malename=input("A male name: \n")
+object=input("An object: \n")
+vehicle=("A vehicle: \n")
+adj=input("An adjective: \n")
+print("----------")
 print(femalename+" decided to move from her apartment on 5th")
 print("to a condo on "+streetname+". She called her friend "+malename)
 print("for help. However, they could not fit "+object+" into")
