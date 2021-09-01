@@ -1,14 +1,14 @@
 
-a=input("A male name: ")
-b=input("A female name:")
-c=input("A pet name: ")
-d=input("A place: ")
-e=input("An adjective: ")
-f=input("An animal: ")
-g=input("A verb ending in ing: ")
-h=input("An adverb: ")
+a=input("A male name: \n")
+b=input("A female name: \n")
+c=input("A pet name: \n")
+d=input("A place: \n")
+e=input("An adjective: \n")
+f=input("An animal: \n")
+g=input("A verb ending in ing: \n")
+h=input("An adverb: \n")
 
-
+print（"----------"）
 
 print(a+" and "+b+" were best friends.")
 print("One day "+a+" and "+b+" decided to go on a")
