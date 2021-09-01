@@ -8,7 +8,7 @@ f=input("An animal: ")
 g=input("A verb ending in ing: ")
 h=input("An adverb: ")
 
-print（"----------"）
+print("----------")
 
 print(a+" and "+b+" were best friends.")
 print("One day "+a+" and "+b+" decided to go on a")
